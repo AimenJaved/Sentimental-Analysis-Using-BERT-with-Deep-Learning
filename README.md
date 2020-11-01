@@ -23,3 +23,16 @@ Tasks:
 7) Definin our performances of metrices
 8) Creat Training Loop.
 9) Loading and Evaluating Model.
+
+<a href="#">
+  <div align="center">
+    <img src="BERT_diagrams.png" width='700'/>
+  </div>
+</a>
+
+# Results
+<a href="#">
+  <div align="center">
+    <img src="screenshot.png" width='700'/>
+  </div>
+</a>
