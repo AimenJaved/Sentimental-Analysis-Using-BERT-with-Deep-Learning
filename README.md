@@ -8,7 +8,9 @@ In-short, it can be used to help Google better discern the context of words in s
 Three Main Objectives of this Project:
 
 1.Sentimental Analysis, how to approach problem from a Neural Network.
+
 2.Loading in Pre-trained BERT with custom output Layer.
+
 3.Train and Evaluate finetuned BERT architecture on sentimental analysis.
 
 Tasks:
